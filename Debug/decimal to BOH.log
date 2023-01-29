@@ -1,0 +1,10 @@
+﻿  decimaltoBOH.cpp
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(6,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(11,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(15,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(27,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(31,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(43,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(47,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(49,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  decimal to BOH.vcxproj -> E:\project visual\decimal to BOH\Debug\decimal to BOH.exe

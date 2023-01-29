@@ -1,0 +1,26 @@
+﻿  BOHtoDecimal.cpp
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.cpp(15,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.cpp(26,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.cpp(33,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.cpp(38,48): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.cpp(41,48): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.cpp(45,10): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  decimal to BOH.cpp
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\ooperations.h(4,28): warning C4584: 'ooperations': base-class 'decimaltoBOH' is already a base-class of 'BOHtoDecimal'
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.h(2): message : see declaration of 'decimaltoBOH'
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.h(4): message : see declaration of 'BOHtoDecimal'
+  decimaltoBOH.cpp
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(6,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(11,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(15,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(27,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(31,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(43,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(47,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.cpp(49,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ooperations.cpp
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\ooperations.h(4,28): warning C4584: 'ooperations': base-class 'decimaltoBOH' is already a base-class of 'BOHtoDecimal'
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\decimaltoBOH.h(2): message : see declaration of 'decimaltoBOH'
+F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\decimal to BOH\BOHtoDecimal.h(4): message : see declaration of 'BOHtoDecimal'
+  Generating Code...
+  decimal to BOH.vcxproj -> F:\تيرمات ملهاش لزمه اصلا ف الحياه\2\1\project visual\decimal to BOH\x64\Debug\decimal to BOH.exe
